@@ -107,7 +107,7 @@ https://beaconcha.in/api/v1/execution/block/17433876
       blockReward: 78789588392589460
       blockMevReward: 97507214206701300
       producerReward: 97507214206701300
-      feeRecipient: 0x95222290dd7278aa3ddd389cc1e1d165cc4bafe5
+      feeRecipient: 0x49345182d578b1b3c7ed4b2e6ecd8aef63dd2ca3
       gasLimit: 30000000
       gasUsed: 14144085
       baseFee: 19954925790
