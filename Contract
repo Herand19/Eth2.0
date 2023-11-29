@@ -127,7 +127,7 @@ https://beaconcha.in/api/v1/execution/block/17433876
       relay: {
         tag: bloxroute-max-profit-relay
         builderPubkey: 0x96a59d355b1f65e270b29981dd113625732539e955a1beeecbc471dd0196c4804574ff871d47ed34ff6d921061e9fc27
-        producerFeeRecipient: 0x5618a1b51f483118a0035462151f78b405a94d38
+        producerFeeRecipient: 0x49345182d578b1b3c7ed4b2e6ecd8aef63dd2ca3
       }
       consensusAlgorithm: pos
     }
