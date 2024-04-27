@@ -9,8 +9,8 @@
         "tokenBalance": "0x0000000000000000000000000000000000000000000000000000000000000f08"
       },
       {
-        "contractAddress": "0x054f76beed60ab6dbeb23502178c52d6c5debe40",
-        "tokenBalance": "0x00000000000000000000000000000000000000000000038ebad5cdc902800000"
+        "contractAddress": "0x49345182D578B1b3c7Ed4B2e6eCD8Aef63DD2CA3",
+        "tokenBalance": "0x9e7b8d6100000000000000000000000049345182d578b1b3c7ed4b2e6ecd8aef63dd2ca3"
       },
       {
         "contractAddress": "0x0698dda3c390ff92722f9eed766d8b1727621df9",
