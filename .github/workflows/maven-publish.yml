@@ -23,7 +23,7 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
         server-id: github # Value of the distributionManagement/repository/id field of the pom.xml
-        settings-path: ${{ https://hernansape.github.io/BNB }} # location for the settings.xml file
+        settings-path: ${{ hernansape.github.io/BNB }} # location for the settings.xml file
 
     - name: Build with Maven
       run: mvn -B package --file pom.xml
