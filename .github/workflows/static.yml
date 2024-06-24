@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_https://github.com/Herand19/Eth2.0/actions/runs/9643347001/artifacts/1631023641 }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
